@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gaearon/react-hot-boilerplate.git"
+    "url": "https://github.com/mjhall310/react-hot-boilerplate.git"
   },
   "keywords": [
     "react",
@@ -21,12 +21,12 @@
     "edit",
     "webpack"
   ],
-  "author": "Dan Abramov <dan.abramov@me.com> (http://github.com/gaearon)",
+  "author": "Mike Hall <mjhall310@gmail.com> (http://github.com/mjhall310)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gaearon/react-hot-boilerplate/issues"
+    "url": "https://github.com/mjhall310/react-hot-boilerplate/issues"
   },
-  "homepage": "https://github.com/gaearon/react-hot-boilerplate",
+  "homepage": "https://github.com/mjhall310/react-hot-boilerplate",
   "devDependencies": {
     "babel-core": "^6.0.20",
     "babel-eslint": "^6.1.2",
@@ -41,7 +41,7 @@
     "webpack-dev-server": "^1.12.1"
   },
   "dependencies": {
-    "react": "*",
-    "react-dom": "*"
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1"
   }
 }
